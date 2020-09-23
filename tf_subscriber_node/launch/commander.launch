@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="tf_subscriber_node" name="tf_subscriber_node" type="tf_subscriber_node" output="screen"/>
+</launch>
